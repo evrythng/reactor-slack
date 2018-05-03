@@ -1,0 +1,8 @@
+{
+  "name": "reactor-slack",
+  "author": "EVRYTHNG",
+  "dependencies": {
+    "evrythng-extended": "^4.1.0",
+    "request": "^2.85.0"
+  }
+}
