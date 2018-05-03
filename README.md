@@ -17,7 +17,7 @@ of the `_PostToSlack` type to a resource in the same project scope with the
 5. Save the new script with the 'Update' button.
 
 
-## Configuration
+## Configuration
 
 After creating a Slack webhook integration in your Slack team's dashboard, set 
 the webhook's URL as the value of `WEBHOOK_URL` in the Reactor script.
